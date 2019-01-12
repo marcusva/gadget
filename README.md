@@ -1,4 +1,4 @@
-# go-gogadget
+# gadget - utilities for Go projects
 
 [![Build Status](https://travis-ci.org/marcusva/gadget.svg?branch=master)](https://travis-ci.org/marcusva/gadget)
 
